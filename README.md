@@ -54,7 +54,7 @@ Upload a PDF, create a vector database using Retrieval-Augmented Generation (RAG
 ```
 pdf_chatbot/
 │
-├── app.py
+├── streamlit_app.py
 ├── .env
 ├── .env.example
 ├── requirements.txt
