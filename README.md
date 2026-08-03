@@ -124,7 +124,7 @@ Example:
 ```env
 GOOGLE_API_KEY=your_google_api_key
 
-LLM_MODEL=gemini-2.5-flash
+LLM_MODEL=gemini-3.5-flash
 
 EMBEDDING_MODEL=models/text-embedding-004
 
